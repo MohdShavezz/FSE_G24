@@ -1,0 +1,1 @@
+Communication: Client-Server, Websocket, Polling ( long and short polling ) , SSE 
