@@ -8,7 +8,6 @@ const App = () => {
       My React App
       <Counter/>
       <Wrapper>
-
       <UserForm/>
       </Wrapper>
     </div>
